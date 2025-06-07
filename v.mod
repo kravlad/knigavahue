@@ -3,5 +3,5 @@ Module {
 	description: 'Downloads audio books from https://knigavuhe.org'
 	version: '0.0.1'
 	license: 'MIT'
-	dependencies: []
+	dependencies: ['https://github.com/vlang/pcre/']
 }
